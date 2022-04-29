@@ -75,7 +75,7 @@ contract WavePortal {
         return waves;
     }
 
-    function poop() public {
+    function hate() public {
         totalWaves -= 1;
         console.log("%s hates you!", msg.sender);
     }
